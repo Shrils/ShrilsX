@@ -86,8 +86,7 @@
 			border-color: rgb(255 255 255 / .05);
 		}
 		&:focus-within {
-			border-color: rgb(var(--accent));
-			box-shadow: 0 0 calc(var(--input-glow-intensity) * 20px) calc(var(--input-glow-intensity) * 5px) rgb(var(--accent), .25);
+			border-color: rgb(255 255 255 / .05);
 		}
 	}
 	.slateTextArea-27tjG0,
